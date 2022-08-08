@@ -1,0 +1,15 @@
+/vennv/
+/access_token/
+/includes/inputs/data.csv
+/includes/inputs/
+/venv_form_ocr_git/
+/access/
+/app/Samples/*
+/outputs/*
+/app/Samples/
+/.env.local
+/app/.streamlit/
+/upload/
+/venv/
+/files/*
+/arquivos/*
